@@ -27,7 +27,6 @@ This project involves:
 
 ## 🛠️ Important Links & Tools:
 
-- **[Datasets](datasets/):** project dataset (csv files).
 - **[DrawIO](https://app.diagrams.net/#LData%20Warehouse.drawio#%7B%22pageId%22%3A%22RTjU9jlxLKmzZ5IuxmM-%22%7D):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://app.notion.com/p/Data-Warehouse-Project-38af2061715980478fd9c4b620b457ee):**
   Project Template from Notion
